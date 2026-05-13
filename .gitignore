@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Large Data (Recommended to ignore or use Git LFS)
+IMDB_Dataset.csv
+
+# App specific
+.gradio/
